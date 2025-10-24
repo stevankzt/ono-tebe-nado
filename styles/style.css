@@ -272,7 +272,7 @@ main {
 .about__text {
   display: flex;
   flex-direction: column;
-  gap: 27px;
+  gap: 28px;
 }
 
 .about__text p {

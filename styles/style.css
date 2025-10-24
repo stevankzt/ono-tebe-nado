@@ -13,8 +13,8 @@ header {
 }
 
 .menu {
-  width: 391;
-  height: 22;
+  width: 391px;
+  height: 22px;
   opacity: 1;
 }
 
@@ -77,7 +77,6 @@ a:hover {
   background-repeat: no-repeat;
   text-transform: uppercase;
   z-index: 0;
-  
 }
 
 .overlay {
